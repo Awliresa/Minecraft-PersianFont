@@ -2,7 +2,7 @@
 
 <img src="src/main/resources/assets/persianfont/icon.png" width="128" height="128" alt="PersianFont Icon"/>
 
-# PersianFont | فونت فارسی
+# PersianFont | فونت فارسی ماینکرفت
 
 **Full Persian font & RTL text support for Minecraft 26.2 — Fabric**
 
