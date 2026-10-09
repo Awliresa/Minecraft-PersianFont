@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "package": "persianfont.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": [
+    "FontMixin",
+    "FormattedBidiReorderMixin",
+    "FontManagerMixin",
+    "KeyboardHandlerMixin",
+    "OptionsScreenMixin",
+    "MinecraftAccessor",
+    "EditBoxMixin",
+    "StyleMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
