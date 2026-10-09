@@ -6,21 +6,21 @@
 
 **Full Persian font & RTL text support for Minecraft 26.2 — Fabric**
 
-[![Modrinth](https://img.shields.io/badge/Modrinth-Download-1bd96a?logo=modrinth&logoColor=white)](https://modrinth.com/mod/YOUR_MODRINTH_SLUG)
-[![CurseForge](https://img.shields.io/badge/CurseForge-Download-f16436?logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/YOUR_CURSEFORGE_SLUG)
+[![Modrinth](https://img.shields.io/badge/Modrinth-Download-1bd96a?logo=modrinth&logoColor=white)](https://modrinth.com/mod/persianfont)
+[![CurseForge](https://img.shields.io/badge/CurseForge-Download-f16436?logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/persianfont)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Minecraft](https://img.shields.io/badge/Minecraft-26.2-green)](https://www.minecraft.net)
 
 ---
 
-**[🇬🇧 English](#english) · [🇮🇷 فارسی](#فارسی)**
+**[English](#english) · [فارسی](#فارسی)**
 
 </div>
 
 ---
 
 <a name="english"></a>
-## 🇬🇧 English
+## English
 
 ### Overview
 
@@ -63,74 +63,74 @@ PersianFont is a client-side Fabric mod for Minecraft 26.2 that adds full Persia
 ### Installation
 
 1. Install [Fabric Loader](https://fabricmc.net/use/) for Minecraft 26.2.
-2. Download `PersianFont-1.0.0-mc26.2.jar` from [Modrinth](https://modrinth.com/mod/YOUR_MODRINTH_SLUG) or [CurseForge](https://www.curseforge.com/minecraft/mc-mods/YOUR_CURSEFORGE_SLUG).
+2. Download `PersianFont-1.0.0-mc26.2.jar` from [Modrinth](https://modrinth.com/mod/persianfont) or [CurseForge](https://www.curseforge.com/minecraft/mc-mods/persianfont).
 3. Place the file in your Minecraft `mods` folder:
    - Windows: `%appdata%\.minecraft\mods`
 4. Launch the game. Press `P` or go to **Options** to open the font dashboard.
 
-### Author
+### Authors & Credits
 
-**Awliresa**
+- **Creator & Maintainer:** **Awliresa**
+- **Code Generation & AI Architecture:** Developed with **Google Gemini**
+- **Fonts:** Vazirmatn, Sahel, and Shabnam by [Saber Rastikerdar](https://github.com/rastikerdar) (SIL Open Font License)
 
 ---
 
 <a name="فارسی"></a>
-## 🇮🇷 فارسی
+## فارسی
+
+<div dir="rtl">
 
 ### معرفی
 
-PersianFont یک ماد کلاینت‌ساید برای ماینکرفت 26.2 (Fabric) است که پشتیبانی کامل از زبان و قلم‌های فارسی را به بازی اضافه می‌کند. این ماد شامل شش فونت فارسی، یک داشبورد انتخاب فونت، راست‌چینی صحیح متون و مدیریت درست متون ترکیبی فارسی/انگلیسی در تمام بخش‌های بازی است.
+ماد **PersianFont (فونت فارسی)** یک ماد کلاینت‌ساید برای ماینکرفت 26.2 (Fabric) است که پشتیبانی کامل و اصولی از زبان و قلم‌های فارسی را به بازی اضافه می‌کند. این ماد شامل ۶ قلم زیبای فارسی، داشبورد تنظیمات داخل بازی، راست‌چینی استاندارد متون و رفع کامل به‌هم‌ریختگی جملات ترکیبی فارسی و انگلیسی در تمامی بخش‌های بازی است.
 
 ### ویژگی‌ها
 
-- **۶ فونت فارسی داخلی**
-  - سورنا — سبک پیکسلی هندسی
-  - یونیکسل — پیکسلی الهام‌گرفته از خط نسخ
-  - رویین — سبک رترو سازگار با ماینکرفت
-  - وزیرمتن — مدرن و روان *(اثر صابر راستی‌کردار، مجوز SIL OFL)*
-  - ساحل — هندسی و مدرن *(اثر صابر راستی‌کردار، مجوز SIL OFL)*
-  - شبنم — گرد و شاداب *(اثر صابر راستی‌کردار، مجوز SIL OFL)*
+- **۶ فونت فارسی آماده و متنوع:**
+  - **سورنا:** سبک پیکسلی و هندسی
+  - **یونیکسل:** پیکسلی با الهام از خط نسخ
+  - **رویین:** رترو و کاملاً هماهنگ با ظاهر ماینکرفت
+  - **وزیرمتن:** بسیار روان، تمیز و خوانا *(اثر زنده‌یاد صابر راستی‌کردار، مجوز SIL OFL)*
+  - **ساحل:** هندسی، شیک و مدرن *(اثر صابر راستی‌کردار، مجوز SIL OFL)*
+  - **شبنم:** حروف گرد، چشم‌نواز و دلنشین *(اثر صابر راستی‌کردار، مجوز SIL OFL)*
 
-- **داشبورد انتخاب فونت داخل بازی**
-  - باز کردن با کلید `P` (قابل تغییر) یا از صفحه Options
-  - نمایش نام هر فونت با قلم اختصاصی خودش
-  - تنظیم سبک **ضخیم (Bold)** و **مورب (Italic)**
-  - چهار سایز فونت: کوچک (85٪)، معمولی (100٪)، بزرگ (115٪)، خیلی بزرگ (130٪)
-  - تغییر کلید میانبر از داخل داشبورد
+- **داشبورد تنظیمات درون بازی:**
+  - دسترسی با فشردن کلید `P` (قابل تغییر) یا از طریق منوی تنظیمات (Options)
+  - نمایش نام هر فونت در منو با همان قلم اختصاصی
+  - دکمه‌های روشن/خاموش کردن سبک **ضخیم (Bold)** و **مورب (Italic)**
+  - ۴ اندازه مختلف برای قلم: کوچک (۸۵٪)، معمولی (۱۰۰٪)، بزرگ (۱۱۵٪)، خیلی بزرگ (۱۳۰٪)
+  - قابلیت تغییر و شخصی‌سازی کلید میانبر از داخل داشبورد
 
-- **موتور پیشرفته راست‌چین**
-  - نمایش صحیح راست‌به‌چپ در چت، نام جهان‌ها، اچیومنت‌ها، تابلوها و تمام رابط کاربری
-  - مدیریت صحیح متون ترکیبی (BiDi) — کلمات انگلیسی داخل جملات فارسی در جای درست خود نمایش داده می‌شوند
-  - اتصال درست حروف فارسی و پشتیبانی از ترکیب‌های کاراکتری
-  - نمایش صحیح متن هنگام تایپ در باکس چت
+- **موتور پیشرفته اصلاح متن و BiDi:**
+  - راست‌چینی خودکار متن‌ها در چت، تابلوها، منوها و پیام‌ها
+  - مدیریت اصولی کلمات انگلیسی در جملات فارسی (بدون پریدن کلمه انگلیسی به اول جمله)
+  - چسبندگی صحیح و استاندارد حروف فارسی
+  - نمایش بی‌نقص و زنده متن هنگام تایپ در باکس چت
 
-- **یکپارچه‌سازی با Mod Menu**
-  - صفحه تنظیمات کامل از طریق Mod Menu
+- **پشتیبانی کامل از Mod Menu:**
+  - دسترسی مستقیم به تنظیمات از لیست مادهای Mod Menu
 
 ### پیش‌نیازها
 
-| وابستگی | نسخه |
+| پیش‌نیاز | نسخه |
 |---|---|
 | Minecraft | 26.2 |
 | Fabric Loader | ≥ 0.18.5 |
 | Mod Menu | اختیاری |
 
-### نصب
+### نحوه نصب و استفاده
 
-1. [Fabric Loader](https://fabricmc.net/use/) را برای ماینکرفت 26.2 نصب کنید.
-2. فایل `PersianFont-1.0.0-mc26.2.jar` را از [Modrinth](https://modrinth.com/mod/YOUR_MODRINTH_SLUG) یا [CurseForge](https://www.curseforge.com/minecraft/mc-mods/YOUR_CURSEFORGE_SLUG) دانلود کنید.
-3. فایل را در پوشه `mods` ماینکرفت خود قرار دهید:
-   - ویندوز: `%appdata%\.minecraft\mods`
-4. بازی را اجرا کنید. کلید `P` را بزنید یا به **Options** بروید تا داشبورد فونت باز شود.
+۱. مطمئن شوید **Fabric Loader** برای ماینکرفت 26.2 نصب شده است.  
+۲. فایل ماد `PersianFont-1.0.0-mc26.2.jar` را از [Modrinth](https://modrinth.com/mod/persianfont) یا [CurseForge](https://www.curseforge.com/minecraft/mc-mods/persianfont) دانلود کنید.  
+۳. فایل دانلود شده را در پوشه `mods` بازی قرار دهید:  
+   - ویندوز: `%appdata%\.minecraft\mods`  
+۴. بازی را اجرا کرده و با زدن دکمه `P` یا رفتن به منوی Options، فونت مورد نظر را انتخاب نمایید.
 
-### سازنده
+### سازندگان و اعتبارنامه
 
-**Awliresa**
-
----
-
-<div align="center">
-
-*فونت‌های Vazirmatn، Sahel و Shabnam اثر [صابر راستی‌کردار](https://github.com/rastikerdar) هستند و تحت مجوز [SIL Open Font License](https://scripts.sil.org/OFL) منتشر شده‌اند.*
+- **سازنده و مدیر پروژه:** **Awliresa**
+- **توسعه و معماری کد:** پیاده‌سازی شده با همکاری **Google Gemini (جمنای)**
+- **طراحان فونت:** قلم‌های وزیرمتن، ساحل و شبنم اثر [صابر راستی‌کردار](https://github.com/rastikerdar) تحت لایسنس SIL OFL
 
 </div>
