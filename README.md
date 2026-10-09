@@ -2,7 +2,7 @@
 
 <img src="src/main/resources/assets/persianfont/icon.png" width="128" height="128" alt="PersianFont Icon"/>
 
-# PersianFont | فونت فارسی ماینکرفت
+# Minecraft-PersianFont | فونت فارسی ماینکرفت
 
 **Full Persian font & RTL text support for Minecraft 26.2 — Fabric**
 
@@ -24,7 +24,7 @@
 
 ### Overview
 
-PersianFont is a client-side Fabric mod for Minecraft 26.2 that adds full Persian (Farsi) language rendering support. It includes six carefully selected Persian fonts, a built-in font selection dashboard, proper RTL (right-to-left) text rendering, and correct handling of mixed Persian/English text throughout the game.
+**Minecraft-PersianFont** is a client-side Fabric mod for Minecraft 26.2 that adds full Persian (Farsi) language rendering support. It includes six carefully selected Persian fonts, a built-in font selection dashboard, proper RTL (right-to-left) text rendering, and correct handling of mixed Persian/English text throughout the game.
 
 ### Features
 
@@ -83,7 +83,7 @@ PersianFont is a client-side Fabric mod for Minecraft 26.2 that adds full Persia
 
 ### معرفی
 
-ماد **PersianFont (فونت فارسی)** یک ماد کلاینت‌ساید برای ماینکرفت 26.2 (Fabric) است که پشتیبانی کامل و اصولی از زبان و قلم‌های فارسی را به بازی اضافه می‌کند. این ماد شامل ۶ قلم زیبای فارسی، داشبورد تنظیمات داخل بازی، راست‌چینی استاندارد متون و رفع کامل به‌هم‌ریختگی جملات ترکیبی فارسی و انگلیسی در تمامی بخش‌های بازی است.
+ماد **Minecraft-PersianFont (فونت فارسی ماینکرفت)** یک ماد کلاینت‌ساید برای ماینکرفت 26.2 (Fabric) است که پشتیبانی کامل و اصولی از زبان و قلم‌های فارسی را به بازی اضافه می‌کند. این ماد شامل ۶ قلم زیبای فارسی، داشبورد تنظیمات داخل بازی، راست‌چینی استاندارد متون و رفع کامل به‌هم‌ریختگی جملات ترکیبی فارسی و انگلیسی در تمامی بخش‌های بازی است.
 
 ### ویژگی‌ها
 
