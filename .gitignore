@@ -1,0 +1,25 @@
+# Build & binaries
+/build/
+*.class
+*.jar
+
+# Logs & temp test files
+/logs/
+/fonts/
+*.png
+*.txt
+DebugText*
+FindCalls*
+FindBidiCalls*
+Sim*
+Test*
+CheckFontChars*
+CropImg*
+ProcessIcon*
+
+# IDE & OS
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
