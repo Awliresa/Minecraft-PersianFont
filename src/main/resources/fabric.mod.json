@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "persianfont",
+  "version": "1.0.0",
+  "name": "PersianFont | فونت فارسی",
+  "description": "پشتیبانی کامل و اصولی از زبان و قلم‌های فارسی در ماینکرفت به همراه داشبورد انتخاب فونت و اصلاح کلمات ترکیبی انگلیسی.",
+  "authors": [
+    "Awliresa"
+  ],
+  "license": "MIT",
+  "icon": "assets/persianfont/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "persianfont.PersianFontClient"
+    ],
+    "modmenu": [
+      "persianfont.compat.ModMenuCompat"
+    ]
+  },
+  "mixins": [
+    "persianfont.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.18.5",
+    "minecraft": ">=26.2"
+  }
+}
