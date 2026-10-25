@@ -4,12 +4,12 @@
 
 # Minecraft-PersianFont | فونت فارسی ماینکرفت
 
-**Full Persian font & RTL text support for Minecraft 26.2 — Fabric**
+**Full Persian font & RTL text support for Minecraft 26.2 & 26.3 — Fabric**
 
 [![Modrinth](https://img.shields.io/badge/Modrinth-Download-1bd96a?logo=modrinth&logoColor=white)](https://modrinth.com/mod/persianfont)
 [![CurseForge](https://img.shields.io/badge/CurseForge-Download-f16436?logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/persianfont)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Minecraft](https://img.shields.io/badge/Minecraft-26.2-green)](https://www.minecraft.net)
+[![Minecraft](https://img.shields.io/badge/Minecraft-26.2%20%7C%2026.3-green)](https://www.minecraft.net)
 
 ---
 
@@ -24,7 +24,7 @@
 
 ### Overview
 
-**Minecraft-PersianFont** is a client-side Fabric mod for Minecraft 26.2 that adds full Persian (Farsi) language rendering support. It includes six carefully selected Persian fonts, a built-in font selection dashboard, proper RTL (right-to-left) text rendering, and correct handling of mixed Persian/English text throughout the game.
+**Minecraft-PersianFont** is a client-side Fabric mod for Minecraft 26.2 & 26.3 that adds full Persian (Farsi) language rendering support. It includes six carefully selected Persian fonts, a built-in font selection dashboard, proper RTL (right-to-left) text rendering, and correct handling of mixed Persian/English text throughout the game.
 
 ### Features
 
@@ -56,14 +56,14 @@
 
 | Dependency | Version |
 |---|---|
-| Minecraft | 26.2 |
+| Minecraft | 26.2 / 26.3 |
 | Fabric Loader | ≥ 0.18.5 |
 | Mod Menu | Optional |
 
 ### Installation
 
-1. Install [Fabric Loader](https://fabricmc.net/use/) for Minecraft 26.2.
-2. Download `PersianFont-1.0.0-mc26.2.jar` from [Modrinth](https://modrinth.com/mod/persianfont) or [CurseForge](https://www.curseforge.com/minecraft/mc-mods/persianfont).
+1. Install [Fabric Loader](https://fabricmc.net/use/) for Minecraft 26.2 or 26.3.
+2. Download `PersianFont-1.1.0-mc26.3.jar` (or `mc26.2`) from [GitHub Releases](https://github.com/Awliresa/Minecraft-PersianFont/releases), [Modrinth](https://modrinth.com/mod/persianfont), or [CurseForge](https://www.curseforge.com/minecraft/mc-mods/persianfont).
 3. Place the file in your Minecraft `mods` folder:
    - Windows: `%appdata%\.minecraft\mods`
 4. Launch the game. Press `P` or go to **Options** to open the font dashboard.
@@ -83,7 +83,7 @@
 
 ### معرفی
 
-ماد **Minecraft-PersianFont (فونت فارسی ماینکرفت)** یک ماد کلاینت‌ساید برای ماینکرفت 26.2 (Fabric) است که پشتیبانی کامل و اصولی از زبان و قلم‌های فارسی را به بازی اضافه می‌کند. این ماد شامل ۶ قلم زیبای فارسی، داشبورد تنظیمات داخل بازی، راست‌چینی استاندارد متون و رفع کامل به‌هم‌ریختگی جملات ترکیبی فارسی و انگلیسی در تمامی بخش‌های بازی است.
+ماد **Minecraft-PersianFont (فونت فارسی ماینکرفت)** یک ماد کلاینت‌ساید برای ماینکرفت 26.2 و 26.3 (Fabric) است که پشتیبانی کامل و اصولی از زبان و قلم‌های فارسی را به بازی اضافه می‌کند. این ماد شامل ۶ قلم زیبای فارسی، داشبورد تنظیمات داخل بازی، راست‌چینی استاندارد متون و رفع کامل به‌هم‌ریختگی جملات ترکیبی فارسی و انگلیسی در تمامی بخش‌های بازی است.
 
 ### ویژگی‌ها
 
@@ -115,14 +115,14 @@
 
 | پیش‌نیاز | نسخه |
 |---|---|
-| Minecraft | 26.2 |
+| Minecraft | 26.2 / 26.3 |
 | Fabric Loader | ≥ 0.18.5 |
 | Mod Menu | اختیاری |
 
 ### نحوه نصب و استفاده
 
-۱. مطمئن شوید **Fabric Loader** برای ماینکرفت 26.2 نصب شده است.  
-۲. فایل ماد `PersianFont-1.0.0-mc26.2.jar` را از [Modrinth](https://modrinth.com/mod/persianfont) یا [CurseForge](https://www.curseforge.com/minecraft/mc-mods/persianfont) دانلود کنید.  
+۱. مطمئن شوید **Fabric Loader** برای ماینکرفت 26.2 یا 26.3 نصب شده است.  
+۲. فایل ماد `PersianFont-1.1.0-mc26.3.jar` (یا نسخه 26.2) را از [GitHub Releases](https://github.com/Awliresa/Minecraft-PersianFont/releases)، [Modrinth](https://modrinth.com/mod/persianfont) یا [CurseForge](https://www.curseforge.com/minecraft/mc-mods/persianfont) دانلود کنید.  
 ۳. فایل دانلود شده را در پوشه `mods` بازی قرار دهید:  
    - ویندوز: `%appdata%\.minecraft\mods`  
 ۴. بازی را اجرا کرده و با زدن دکمه `P` یا رفتن به منوی Options، فونت مورد نظر را انتخاب نمایید.
